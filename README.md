@@ -8,3 +8,6 @@ Thanks for checking out this QR-Code-Component Design ,
 
 which is made up by using HTML and CSS
 
+
+live Design -> https://aniketbhogawarqrcomponent.netlify.app
+
